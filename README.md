@@ -1,5 +1,4 @@
 <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> Spare BackEnd Developer </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;"> 지속가능한 개발자를 꿈꾸는 이경도입니다. </div> 
     </div>
     <div style="text-align: left;">

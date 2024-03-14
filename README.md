@@ -1,6 +1,6 @@
 - 👋 Hi, I’m leekyoungdo
 - 👀 I’m interested in Exercise, watch movie
-- 🌱 I’m currently learning Java, Node.js
+- 🌱 I’m currently learning Java,Spring Boot, Node.js, Express
 - 💞️ I dream of becoming a sustainable back-end developer
 - 📫 How to reach me flrudeh@naver.com
 

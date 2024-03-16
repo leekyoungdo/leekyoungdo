@@ -1,5 +1,5 @@
 <div style="text-align: left;"> 
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;"> 지속가능한 개발을를 꿈꾸는 백엔드 예비 개발자 이경도입니다. </div> 
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;"> 지속가능한 개발을 꿈꾸는 백엔드 예비 개발자 이경도입니다. </div> 
     </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🛠️ Tech Stacks </h2> <br> 
